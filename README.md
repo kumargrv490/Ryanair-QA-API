@@ -18,7 +18,10 @@ Feature: User management
     When I send a GET request to "/user/1"
     Then I should receive a 200 response
     And the response should contain user details
+
+    
 Doumentation to Test steps-
+
 Setup instructions (Docker + test install)
  **Run the API service**
 
