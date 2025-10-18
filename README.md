@@ -1,3 +1,3 @@
-# Manual-and-Automation-project-
-This is my first Git Repository
+# Ryanair-QA-API
+
 Tester-Kumar Gaurav
